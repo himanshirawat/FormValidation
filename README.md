@@ -10,7 +10,7 @@ A user form with robust validation using Vanilla JavaScript. Implemented validat
 ## Tech Stack
 
 - HTML/CSS
-- Javascript
+- Vanilla Javascript
 
 
 ## Author
@@ -23,4 +23,4 @@ A user form with robust validation using Vanilla JavaScript. Implemented validat
 
 ## Live Link
 
-https://regform.netlify.app/
+https://credential.netlify.app/

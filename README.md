@@ -1,2 +1,2 @@
-# Web
+# Shopy
  e-commerce site

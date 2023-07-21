@@ -1,5 +1,5 @@
 
-# Registration Form
+# Registration Form 
 
 A user form with robust validation using Vanilla JavaScript. Implemented validation for fields like username and password, to authenticate user.
 

@@ -91,7 +91,7 @@ submitButton.addEventListener("click", (e) => {
     }
   } else {
     emptyFieldMessage[2].classList.remove("d-none");
-  }
+  } 
   if (password) {
     emptyFieldMessage[3].classList.add("d-none");
     if (!pwdRegex.test(password)) {

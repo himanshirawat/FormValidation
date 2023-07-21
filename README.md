@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# Shopy
+ e-commerce site
+=======
 
 # Registration Form 
 
@@ -10,7 +14,7 @@ A user form with robust validation using Vanilla JavaScript. Implemented validat
 ## Tech Stack
 
 - HTML/CSS
-- Javascript
+- Vanilla Javascript
 
 
 ## Author
@@ -23,4 +27,5 @@ A user form with robust validation using Vanilla JavaScript. Implemented validat
 
 ## Live Link
 
-https://regform.netlify.app/
+https://credential.netlify.app/
+>>>>>>> 040d059b470991f1e25d5ab4fd4f0706e0c0f7ca
